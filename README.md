@@ -9,6 +9,7 @@ Additionally, the report includes an interactive dashboard that showcases the to
 Furthermore, the dashboard can recommend suitable smartphones tailored to users' preferences in specifications such as price, screen size, and camera megapixels. 
 
 ### Key Findings: 
+
 - Top 3 Brands by Rating:
   1. Leitz
   2. Sharp, Lenovo
@@ -33,16 +34,18 @@ Furthermore, the dashboard can recommend suitable smartphones tailored to users'
 - Screen size and ratings show the strongest correlation.
 
 ### Data Visulisation 
+
 Click [here](https://public.tableau.com/views/SmartphoneRecommendation/Story1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) for interactive dashboard and visulisation. 
 ![smartphone DB1](https://github.com/zrseah/Smartphone-Analysis/assets/161100014/121ebbeb-fd44-4417-8713-36cc62e42645)
 ![smartphone DB2](https://github.com/zrseah/Smartphone-Analysis/assets/161100014/22e32538-11be-4a5f-9233-313b03e73f35)
 
-### Data Source
-[Data Source](https://www.kaggle.com/datasets/informrohit1/smartphones-dataset)
-
-### Conclusion: 
+### Conclusion
 
 In summary, this analysis reveals key factors influencing smartphone ratings, such as screen size and price. 
 The findings reveal that brands like Leitz, Sharp, Lenovo, Royole, LG, and Asus lead in ratings, while Vertu, Royole, and Leitz dominate the high-end market. Additionally, Xiaomi, Samsung, Vivo, Realme, and Oppo offer the most model diversity, with Apple and Huawei showcasing a broad pricing spectrum. 
 Oppo stands out with the widest range of pricing outliers. The strong relationship between screen size and ratings emphasizes the importance of display features in consumer preferences. 
 These insights can guide manufacturers in optimizing their product offerings and help consumers make informed purchasing decisions. The interactive dashboard further aids users by highlighting top-rated models and providing personalized recommendations.
+
+### Credit
+
+[Data Source](https://www.kaggle.com/datasets/informrohit1/smartphones-dataset)
